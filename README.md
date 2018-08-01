@@ -8,4 +8,4 @@ Circuit: Connection Diagram RTC DS1307 with Arduino.png<br />
 Datasheet: DS1307 Datasheet.pdf<br />
 
 
-<img src="https://github.com/binaryupdates/DS1307-RTC-Arduino/blob/master/Connection%20Diagram%20RTC%20DS1307%20with%20Arduino%20.png?raw=true">
+<img src="https://github.com/binaryupdates/DS1307-RTC-Arduino/blob/master/Connection%20Diagram%20RTC%20DS1307%20with%20Arduino%20.png?raw=true" alt="display this" width=400 height=200>
