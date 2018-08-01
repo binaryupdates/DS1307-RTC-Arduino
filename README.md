@@ -1,4 +1,4 @@
-# DS1307-RTC-Arduino
+# DS1307 RTC Arduino Programming and Interfacing
 Let's Interface DS1307 RTC (Real Time Clock) with Arduino. We will keep track of time using DS1307 RTC Chip
 
 <b><p>Include Following:</p></b>
